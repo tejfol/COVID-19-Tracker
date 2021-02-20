@@ -6,7 +6,7 @@ Go to the root directory
 `npm install`
 `npm run`
 
-[COVID-19-TRACKER](https://imgur.com/3H0lZSB/200x150 "COVID-19-TRACKER")
+[COVID-19-TRACKER](https://imgur.com/3H0lZSB "COVID-19-TRACKER")
 
 Check out the demo here: https://covid-19-tracker-omega.vercel.app/
 
